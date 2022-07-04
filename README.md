@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 📈 My github stats
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=lmarquinez&show_icons=true&theme=gotham" alt="Laura" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmarquinez&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=lmarquinez&show_icons=true&theme=gotham" alt="lmarquinez" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmarquinez&layout=compact&theme=gotham" alt="lmarquinez" />
 </p>
 
