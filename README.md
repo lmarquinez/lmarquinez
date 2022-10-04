@@ -1,8 +1,7 @@
 ### Aupa 🤟
 
-Soy Laura, ingeniera informática de software y estoy especializándome en desarrollo web. Estudié en Donostia-San Sebastián, en la facultad de informática de la UPV/EHU (Universidad del Pais Vasco). Al terminar, comencé a trabajar para coger experiencia en el mundo laboral y empece a compaginarlo con un máster de Full Stack Developer impartido por la UNIR (Universidad Internacional de La Rioja).
-
-I'm Laura, computer software engineer and I'm specializing in web development. I studied in Donostia-San Sebastian, in the faculty of computer science of the UPV/EHU (University of the Basque Country). When I finished, I started working to get experience in the working world and I started to combine it with a Full Stack Developer master's degree at UNIR (International University of La Rioja).
+🎓💻 Computer software engineer, in Donostia-San Sebastian, in the faculty of computer science of the UPV/EHU (University of the Basque Country).
+🎓💻 Master in Full Stack Developer at UNIR (International University of La Rioja).
 
 <a href="https://www.linkedin.com/in/laura-marquinez-sedano/">
   <img align="left" alt="Laura's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
