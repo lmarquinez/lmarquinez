@@ -1,6 +1,7 @@
 ### Aupa 🤟
 
 🎓💻 Computer software engineer, in Donostia-San Sebastian, in the faculty of computer science of the UPV/EHU (University of the Basque Country).
+
 🎓💻 Master in Full Stack Developer at UNIR (International University of La Rioja).
 
 <a href="https://www.linkedin.com/in/laura-marquinez-sedano/">
