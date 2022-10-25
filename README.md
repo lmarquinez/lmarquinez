@@ -12,7 +12,7 @@ ____
 
 ##### Backend Development
 
-NodeJs, PHP, JavaScript
+NodeJs, PHP
 
 _____
 
