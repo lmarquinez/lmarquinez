@@ -4,12 +4,6 @@
 
   
 
-##### Programming languages
-
-JavaScript, Php, TypeScript, SQL, Java
-
-____
-
 ##### FrontEnd Development
 
 HTML, CSS, Bootstrap, JavaScript, JQuery, Angular
