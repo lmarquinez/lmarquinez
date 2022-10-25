@@ -6,7 +6,7 @@
 
 🎓💻 Master in Full Stack Developer at UNIR (International University of La Rioja).
 
-<p>
+<p style="margin:4px 0px">
   
 <a href="https://www.linkedin.com/in/laura-marquinez-sedano/">
   <img align="left" alt="Laura's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
