@@ -24,7 +24,7 @@ _____
 
 ##### Database
 
-MySQL, MariaDB, mongoDB, PostgreSQL
+MySQL, mongoDB
 
 _____
 
