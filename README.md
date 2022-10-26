@@ -1,6 +1,6 @@
-### Aupa 🤟
+## Aupa 🤟
 
-#### Junior Web Developer Full-Stack 💻
+### Junior Web Developer Full-Stack 💻
 
   
 
