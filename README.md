@@ -41,6 +41,6 @@ _____
 </div>
 <div style="display:flex; justify-content:space-between;"> 
   <img src="https://github-readme-stats.vercel.app/api?username=lmarquinez&show_icons=true&theme=gotham" alt="lmarquinez" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmarquinez&layout=compact&theme=gotham" alt="lmarquinez" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmarquinez&layout=compact&theme=gotham" alt="lmarquinez" width="42%" />
   </div>
 
