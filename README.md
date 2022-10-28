@@ -33,7 +33,7 @@ _____
 <div style="margin:4px 0px">
   
 <a href="https://www.linkedin.com/in/laura-marquinez-sedano/">
-  <img align="left" alt="Laura's LinkedIN" width="65" height="65" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Laura's LinkedIN" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 📈 My github stats
