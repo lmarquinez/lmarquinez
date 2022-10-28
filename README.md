@@ -39,7 +39,7 @@ _____
 📈 My github stats
  
 </p>
-<p style="display:flex-inline"> 
+<p style="display:flex; justify-content:space-between;"> 
   <img src="https://github-readme-stats.vercel.app/api?username=lmarquinez&show_icons=true&theme=gotham" alt="lmarquinez" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmarquinez&layout=compact&theme=gotham" alt="lmarquinez" />
 </p>
