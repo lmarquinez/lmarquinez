@@ -26,19 +26,19 @@ _____
 
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="65" height="65"/> </a> <a href="https://github.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="65" height="65"/> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="visual studio code" width="65" height="65"/> </a>  
              
-
 _____
 
-
-<div style="margin:4px 0px">
+  
+📈 My github stats 
  
-📈 My github stats <a href="https://www.linkedin.com/in/laura-marquinez-sedano/">
-  <img align="left" alt="Laura's LinkedIN" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> 
- 
-</div>
 <div style="display:flex; justify-content:space-between;"> 
   <img src="https://github-readme-stats.vercel.app/api?username=lmarquinez&show_icons=true&theme=gotham" alt="lmarquinez" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmarquinez&layout=compact&theme=gotham" alt="lmarquinez" width="42%" />
   </div>
+  
+<div style="margin:4px 0px">
+  <a href="https://www.linkedin.com/in/laura-marquinez-sedano/">
+  <img align="left" alt="Laura's LinkedIN" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>  
+</div>
 
