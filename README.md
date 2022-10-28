@@ -1,8 +1,8 @@
 ### Aupa 🤟
 
-### <a href="https://www.linkedin.com/in/laura-marquinez-sedano/">
+<a href="https://www.linkedin.com/in/laura-marquinez-sedano/">
   <img align="left" alt="Laura's LinkedIN" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> Junior Web Developer Full-Stack 💻
+</a> ### Junior Web Developer Full-Stack 💻
 
   
 
