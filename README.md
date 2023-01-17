@@ -1,7 +1,7 @@
 ### Aupa 🤟
 
 
-### Junior Web Developer Full-Stack 💻 
+### Junior Full-Stack Developer 💻 
   
 
 ##### FrontEnd Development
