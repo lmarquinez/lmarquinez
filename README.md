@@ -36,10 +36,3 @@ _____
   <img src="https://github-readme-stats.vercel.app/api?username=lmarquinez&show_icons=true&theme=gotham" alt="lmarquinez" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmarquinez&layout=compact&theme=gotham" alt="lmarquinez" width="42%" />
   </div>
-  
-<div style="margin:4px 0px">
-  <a href="https://www.linkedin.com/in/laura-marquinez-sedano/">
-  <img align="left" alt="Laura's LinkedIN" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>  
-</div>
-
